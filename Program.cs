@@ -4,26 +4,32 @@ class Challenges
 {
     static void Main(String[] args)
     {
+        //Punto 1.
         imprimir10numeros();
 
+
+        //Punto 2.
         int num1;
         int num2;
-        int num3;
-        int valor;
-        double radio;
         Console.WriteLine("Ingrese 2 numeros por teclado para que sean sumados.");
         num1 = int.Parse(Console.ReadLine());
         num2 = int.Parse(Console.ReadLine());
         Console.WriteLine("El resultado es: " + Suma(num1, num2).ToString());
 
+        //Punto 3.
+        int num3;
         Console.WriteLine("Ingrese un numero por teclado para saber si es par.");
         num3 = int.Parse(Console.ReadLine());
         Console.WriteLine(ParCheck(num3) ? "Es par" : "Es impar");
 
+        //Punto 4.
+        double radio;
         Console.Write("Ingresá el un numero por teclado que sea un radio del círculo, para calcular el area del mismo: ");
         radio = double.Parse(Console.ReadLine());
         Console.WriteLine("El área del círculo es:" + CalcularArea(radio).ToString());
 
+        //Punto 5.
+        int valor;
         Console.Write("Ingresá el número a buscar: ");
         valor = int.Parse(Console.ReadLine());
         int[] arreglo = { 1, 2, 3, 2, 4, 1, 1, 1, 2, 3, 3 };
