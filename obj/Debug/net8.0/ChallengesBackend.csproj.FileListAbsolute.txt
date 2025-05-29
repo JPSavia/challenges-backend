@@ -1,0 +1,14 @@
+C:\Users\todo el poder\ChallengesBackend\bin\Debug\net8.0\ChallengesBackend.exe
+C:\Users\todo el poder\ChallengesBackend\bin\Debug\net8.0\ChallengesBackend.deps.json
+C:\Users\todo el poder\ChallengesBackend\bin\Debug\net8.0\ChallengesBackend.runtimeconfig.json
+C:\Users\todo el poder\ChallengesBackend\bin\Debug\net8.0\ChallengesBackend.dll
+C:\Users\todo el poder\ChallengesBackend\bin\Debug\net8.0\ChallengesBackend.pdb
+C:\Users\todo el poder\ChallengesBackend\obj\Debug\net8.0\ChallengesBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\todo el poder\ChallengesBackend\obj\Debug\net8.0\ChallengesBackend.AssemblyInfoInputs.cache
+C:\Users\todo el poder\ChallengesBackend\obj\Debug\net8.0\ChallengesBackend.AssemblyInfo.cs
+C:\Users\todo el poder\ChallengesBackend\obj\Debug\net8.0\ChallengesBackend.csproj.CoreCompileInputs.cache
+C:\Users\todo el poder\ChallengesBackend\obj\Debug\net8.0\ChallengesBackend.dll
+C:\Users\todo el poder\ChallengesBackend\obj\Debug\net8.0\refint\ChallengesBackend.dll
+C:\Users\todo el poder\ChallengesBackend\obj\Debug\net8.0\ChallengesBackend.pdb
+C:\Users\todo el poder\ChallengesBackend\obj\Debug\net8.0\ChallengesBackend.genruntimeconfig.cache
+C:\Users\todo el poder\ChallengesBackend\obj\Debug\net8.0\ref\ChallengesBackend.dll
